@@ -43,7 +43,7 @@ if (isset($_POST["logout"])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ali Jesus Padron Villasmil 36ae77db</title>
+    <title>Rodrigo Marquez PHP</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>Rock Paper Scissors</h1>
